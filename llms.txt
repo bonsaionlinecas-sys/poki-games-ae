@@ -1,0 +1,9 @@
+# poki-games.ae
+
+دليل عربي يضم ١٣٦ لعبة Playgama بأسمائها وصورها الأصلية. بحث سريع، مفضلة محلية، دليل للتحكم ولعبة ذاكرة تعمل داخل الصفحة.
+
+## Main page
+- [Poki](https://bonsaionlinecas-sys.github.io/poki-games-ae/): دليل عربي يضم ١٣٦ لعبة Playgama بأسمائها وصورها الأصلية. بحث سريع، مفضلة محلية، دليل للتحكم ولعبة ذاكرة تعمل داخل الصفحة.
+
+## Method and scope
+One self-contained page with an interactive tool, visible worked examples, limitations and questions. No accounts or financial transactions. 136 supplied Playgama titles; external frames load only after selection.
